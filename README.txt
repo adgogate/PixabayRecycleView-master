@@ -1,0 +1,1 @@
+Android Studio Project that displays images from Pixabay in a column format. Search function is implemented and displays 0 results and appropriate message on 0 hits. Libraries used - Picassa (to show images), and Volley to make network calls
